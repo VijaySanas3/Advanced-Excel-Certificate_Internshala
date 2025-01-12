@@ -1,4 +1,4 @@
-![Certificate Preview](path-to-your-certificate-image/Screenshot-2025-01-12-231645.png)
+![Certificate Preview](Advanced-Excel-Certificate_Internshala.png)
 # Advanced-Excel-Certificate_Internshala
 ---
 ## Certificate Details
